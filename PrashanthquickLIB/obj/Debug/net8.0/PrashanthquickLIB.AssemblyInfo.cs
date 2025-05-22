@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrashanthquickLIB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+680556c68300255719eaa4eab03f5270f35e6c70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffe274cb805b4135b202685879e7886e7b2ebf53")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrashanthquickLIB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrashanthquickLIB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
